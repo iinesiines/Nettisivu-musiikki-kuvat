@@ -1,0 +1,22 @@
+TUULI DESIGN - HELPPO GITHUB-VERSIO
+
+Tämä versio on tehty erityisesti GitHubin selaimessa tapahtuvaa tiedostojen latausta varten.
+Kaikki sivut, kuvat ja linnunlaulutiedosto ovat SAMASSA KANSIOSSA.
+
+1. Pura Tuuli_Design_GitHub_KUVAT_TOIMII_HELPPO.zip tietokoneella.
+2. Avaa GitHubin repository ja valitse Add file > Upload files.
+3. Valitse kaikki PURETUN KANSION SISÄLLÄ OLEVAT tiedostot (index.html, muut .html-tiedostot, style.css, forest-player.js, .webp- ja .svg-kuvat, .mp3 jne).
+4. ÄLÄ lataa pelkkää .zip-tiedostoa GitHubiin, äläkä laita tiedostoja ylimääräiseen yläkansioon.
+5. Tee Commit changes.
+6. Settings > Pages > Deploy from a branch > main > /(root).
+7. Avaa sivustosi, tarvittaessa tee kova päivitys (Mac: Cmd + Shift + R).
+
+SIVUT
+index.html (Home), services.html (Services), portfolio.html (Portfolio)
+startseite.html (Startseite), leistungen.html (Leistungen), portfolio-de.html (Portfolio)
+
+Äänitiedosto: forest-birds-magnesus.mp3 (Magnesus / Freesound CC0).
+Käyttäjän omat valokuvat on nimetty photo-alkuisiksi tiedostoiksi.
+Tiedostot sisältävät paikallisen kuvagallerian eivätkä automaattisesti päivittyvää IG-kuvavirtaa.
+
+Huom: jos repositoryssa on vanhoja sivutiedostoja ja kuvat eivät silti näy, poista vanhat tiedostot ja varmista, että uudet on oikeasti commitoitu oletushaaran juureen.
